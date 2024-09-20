@@ -1,0 +1,8 @@
+@font-face{
+    src: url(../fonts/SofadiOne-Regular.woff2);
+    font-family: "SofadiOne";
+
+}
+.text{
+    font-family: "SofadiOne",system-ui;
+}
