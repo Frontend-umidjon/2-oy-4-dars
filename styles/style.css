@@ -1,8 +1,11 @@
 @font-face{
     src: url(../fonts/SofadiOne-Regular.woff2);
     font-family: "SofadiOne";
+    font-weight: 600;
+;
 
 }
 .text{
     font-family: "SofadiOne",system-ui;
+    font-size: 150px;
 }
